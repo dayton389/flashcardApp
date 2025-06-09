@@ -4,7 +4,6 @@ public class Flashcard {
     private int id;
     private String front;
     private String back;
-    private String category;
 
     public Flashcard() {}
 
@@ -27,9 +26,6 @@ public class Flashcard {
         return back;
     }
 
-    public String getCategory() {
-        return category;
-    }
 
     // Setters
     public void setId(int id) {
@@ -42,9 +38,5 @@ public class Flashcard {
 
     public void setBack(String back) {
         this.back = back;
-    }
-
-    public void setCategory(String category) {
-        this.category = category;
     }
 }
