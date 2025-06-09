@@ -1,0 +1,9 @@
+com\flashcards\Service\FlashcardService.class
+com\flashcards\AppUi.class
+com\flashcards\FlashcardApi.class
+com\flashcards\Util\ConnectionUtil.class
+com\flashcards\Main.class
+com\flashcards\FlashcardApp.class
+com\flashcards\Controller\Controller.class
+com\flashcards\DAO\FlashcardDAO.class
+com\flashcards\Model\Flashcard.class
