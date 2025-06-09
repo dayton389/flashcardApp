@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.flashcards.AppUi"
+            prefHeight="900" prefWidth="1600">
+
+    <TextArea fx:id="myTextArea" layoutX="20" layoutY="20" prefWidth="560" prefHeight="360" />
+
+</AnchorPane>
